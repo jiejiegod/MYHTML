@@ -3,37 +3,109 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>即时输入</title>
+	<title>Document</title>
+	<script src="jquery.js"></script>
 	<style>
-	*{margin:0;padding:0:}
-	body{width:900px;margin:0auto;}
-	div{width:900px;text-indent:50px;background:#f9f;}
-	.d1{height:60px;font:bolder 20px/80px 黑体;}
-	.d2{background:#00a;border:5px solid #f9f;}
-	.d2 p{border:1px dotted red; background:yellow;margin:5px 30px;font:normal 16px/25px 微软雅黑;}
-	.d3{height: 80px;font:normal 16px/25px 微软雅黑;}
-	.txt{width: 340px;height: 28px;}
-	.btn{width: 45px;height: 28px;}
-	.d1,.d3{padding:5px;}
+*{margin: 0;padding: 0;}
+#d1{width: 800px;height: 300px;margin: 0 auto;}
+#left,#right{width: 50px;height: 300px;float: left;text-align: center;line-height: 300px; cursor: pointer;}
+#img1{width: 700px;height: 300px;float: left;}
+
+#i1,#i5{width: 100px;height: 100px;  float: left; overflow: hidden;margin-top:100px; position: relative;}
+#i1 img,#i5 img{width: 100px; height: 100px;position:absolute; background-color: white;}
+#i2,#i4{width: 150px;height: 150px;float: left;overflow: hidden;margin-top:75px; position: relative;}
+#i2 img,#i4 img{width: 150px; height: 150px;position: absolute; background-color: white;}
+#i3{width: 200px;height: 200px;float: left;overflow: hidden;margin-top:50px; position: relative;}
+#i3 img{width: 200px;height: 200px;position: absolute; background-color: white;}
 	</style>
+	<script>
+$(function(){
+var i=0,zIndex=2;
+$("#left").click(function(){
+	i++;if(i>9){i=0}
+   $("#i1 > img").eq(i).css({"z-index":zIndex++,"left":"100%"}).css({"left":"0px"},1500);
+      $("#i5 > img").eq(i).css({"z-index":zIndex++,"left":"100%"}).css({"left":"0px"},1500);
+         $("#i2 > img").eq(i).css({"z-index":zIndex++,"left":"100%"}).css({"left":"0px"},1500);
+            $("#i4 > img").eq(i).css({"z-index":zIndex++,"left":"100%"}).css({"left":"0px"},1500);
+               $("#i3 > img").eq(i).css({"z-index":zIndex++,"left":"100%"}).css({"left":"0px"},1500);
+   })
+$("#right").click(function(){
+	i--;if(i>9){i=0}
+   $("#i1 > img").eq(i).css({"z-index":zIndex++,"left":"100%"}).css({"left":"0px"},1500);
+      $("#i5 > img").eq(i).css({"z-index":zIndex++,"left":"100%"}).css({"left":"0px"},1500);
+         $("#i2 > img").eq(i).css({"z-index":zIndex++,"left":"100%"}).css({"left":"0px"},1500);
+            $("#i4 > img").eq(i).css({"z-index":zIndex++,"left":"100%"}).css({"left":"0px"},1500);
+               $("#i3 > img").eq(i).css({"z-index":zIndex++,"left":"100%"}).css({"left":"0px"},1500);
+   })
+  })
+</script>
+
 </head>
 <body>
-	<div id="id1">在网页中即时输入内容</div>
-	<div id="id2"></div>
-	<div id="id3">
-	<h2>输入内容</h2>
-	<p>
-	<input type="text" class="txt">
-	<input type="button" value="提交" class="btn">
-	</p>
-	</div>
-	<script>
-	var oDiv=document.querySelector(".d2");
-	var oTxt=document.querySelector(".txt");
-	var oBtn=document.querySelector(".btn");
-	oBtn.onclick=function(){
-		oDiv.innerHTML+="<p>"+oTxt.value+"</p>";
-	};
-		</script>
+<div id="d1">
+<div id="left">&lt;</div>
+<div id="img1">
+<div id="i1">
+	<img src="img/1.png" alt="" style="z-index: 1;">
+	<img src="img/2.png" alt="">
+	<img src="img/3.png" alt="">
+	<img src="img/4.png" alt="">
+	<img src="img/5.png" alt="">
+	<img src="img/6.png" alt="">
+	<img src="img/7.png" alt="">
+	<img src="img/8.png" alt="">
+	<img src="img/9.png" alt="">
+</div>
+<div id="i2">
+	
+	<img src="img/2.png" alt="" style="z-index: 1;">
+	<img src="img/3.png" alt="">
+	<img src="img/4.png" alt="">
+	<img src="img/5.png" alt="">
+	<img src="img/6.png" alt="">
+	<img src="img/7.png" alt="">
+	<img src="img/8.png" alt="">
+	<img src="img/9.png" alt="">
+	<img src="img/1.png" alt="">
+</div>
+<div id="i3">
+	
+	<img src="img/3.png" alt="" style="z-index: 1;">
+	<img src="img/4.png" alt="">
+	<img src="img/5.png" alt="">
+	<img src="img/6.png" alt="">
+	<img src="img/7.png" alt="">
+	<img src="img/8.png" alt="">
+	<img src="img/9.png" alt="">
+	<img src="img/1.png" alt="">
+	<img src="img/2.png" alt="">
+</div>
+<div id="i4">
+
+	<img src="img/4.png" alt="" style="z-index: 1;">
+	<img src="img/5.png" alt="">
+	<img src="img/6.png" alt="">
+	<img src="img/7.png" alt="">
+	<img src="img/8.png" alt="">
+	<img src="img/9.png" alt="">
+	<img src="img/1.png" alt="">
+	<img src="img/2.png" alt="">
+	<img src="img/3.png" alt="">
+</div>
+<div id="i5">
+
+	<img src="img/5.png" alt="" style="z-index: 1;">
+	<img src="img/6.png" alt="">
+	<img src="img/7.png" alt="">
+	<img src="img/8.png" alt="">
+	<img src="img/9.png" alt="">
+	<img src="img/1.png" alt="">
+	<img src="img/2.png" alt="">
+	<img src="img/3.png" alt="">
+	<img src="img/4.png" alt="">
+</div>
+</div>
+<div id="right">&gt;</div>
+</div>	
 </body>
 </html>
