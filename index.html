@@ -67,7 +67,116 @@ $("#right").click(function(){
 	<img src="img/8.png" alt="">
 	<img src="img/9.png" alt="">
 	<img src="img/1.png" alt="">
+</div><!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<script src="jquery.js"></script>
+	<style>
+*{margin: 0;padding: 0;}
+#d1{width: 800px;height: 300px;margin: 0 auto;}
+#left,#right{width: 50px;height: 300px;float: left;text-align: center;line-height: 300px; cursor: pointer;}
+#img1{width: 700px;height: 300px;float: left;}
+
+#i1,#i5{width: 100px;height: 100px;  float: left; overflow: hidden;margin-top:100px; position: relative;}
+#i1 img,#i5 img{width: 100px; height: 100px;position:absolute; background-color: white;}
+#i2,#i4{width: 150px;height: 150px;float: left;overflow: hidden;margin-top:75px; position: relative;}
+#i2 img,#i4 img{width: 150px; height: 150px;position: absolute; background-color: white;}
+#i3{width: 200px;height: 200px;float: left;overflow: hidden;margin-top:50px; position: relative;}
+#i3 img{width: 200px;height: 200px;position: absolute; background-color: white;}
+	</style>
+	<script>
+$(function(){
+var i=0,zIndex=2;
+$("#left").click(function(){
+	i++;if(i>9){i=0}
+   $("#i1 > img").eq(i).css({"z-index":zIndex++,"left":"100%"}).css({"left":"0px"},1500);
+      $("#i5 > img").eq(i).css({"z-index":zIndex++,"left":"100%"}).css({"left":"0px"},1500);
+         $("#i2 > img").eq(i).css({"z-index":zIndex++,"left":"100%"}).css({"left":"0px"},1500);
+            $("#i4 > img").eq(i).css({"z-index":zIndex++,"left":"100%"}).css({"left":"0px"},1500);
+               $("#i3 > img").eq(i).css({"z-index":zIndex++,"left":"100%"}).css({"left":"0px"},1500);
+   })
+$("#right").click(function(){
+	i--;if(i>9){i=0}
+   $("#i1 > img").eq(i).css({"z-index":zIndex++,"left":"100%"}).css({"left":"0px"},1500);
+      $("#i5 > img").eq(i).css({"z-index":zIndex++,"left":"100%"}).css({"left":"0px"},1500);
+         $("#i2 > img").eq(i).css({"z-index":zIndex++,"left":"100%"}).css({"left":"0px"},1500);
+            $("#i4 > img").eq(i).css({"z-index":zIndex++,"left":"100%"}).css({"left":"0px"},1500);
+               $("#i3 > img").eq(i).css({"z-index":zIndex++,"left":"100%"}).css({"left":"0px"},1500);
+   })
+  })
+</script>
+
+</head>
+<body>
+<div id="d1">
+<div id="left">&lt;</div>
+<div id="img1">
+<div id="i1">
+	<img src="1.png" alt="" style="z-index: 1;">
+	<img src="2.png" alt="">
+	<img src="3.png" alt="">
+	<img src="4.png" alt="">
+	<img src="5.png" alt="">
+	<img src="6.png" alt="">
+	<img src="7.png" alt="">
+	<img src="8.png" alt="">
+	<img src="9.png" alt="">
 </div>
+<div id="i2">
+	
+	<img src="2.png" alt="" style="z-index: 1;">
+	<img src="3.png" alt="">
+	<img src="4.png" alt="">
+	<img src="5.png" alt="">
+	<img src="6.png" alt="">
+	<img src="7.png" alt="">
+	<img src="8.png" alt="">
+	<img src="9.png" alt="">
+	<img src="1.png" alt="">
+</div>
+<div id="i3">
+	
+	<img src="3.png" alt="" style="z-index: 1;">
+	<img src="4.png" alt="">
+	<img src="5.png" alt="">
+	<img src="6.png" alt="">
+	<img src="7.png" alt="">
+	<img src="8.png" alt="">
+	<img src="9.png" alt="">
+	<img src="1.png" alt="">
+	<img src="2.png" alt="">
+</div>
+<div id="i4">
+
+	<img src="4.png" alt="" style="z-index: 1;">
+	<img src="5.png" alt="">
+	<img src="6.png" alt="">
+	<img src="7.png" alt="">
+	<img src="8.png" alt="">
+	<img src="9.png" alt="">
+	<img src="1.png" alt="">
+	<img src="2.png" alt="">
+	<img src="3.png" alt="">
+</div>
+<div id="i5">
+
+	<img src="5.png" alt="" style="z-index: 1;">
+	<img src="6.png" alt="">
+	<img src="7.png" alt="">
+	<img src="8.png" alt="">
+	<img src="9.png" alt="">
+	<img src="1.png" alt="">
+	<img src="2.png" alt="">
+	<img src="3.png" alt="">
+	<img src="4.png" alt="">
+</div>
+</div>
+<div id="right">&gt;</div>
+</div>	
+</body>
+</html>
 <div id="i3">
 	
 	<img src="img/3.png" alt="" style="z-index: 1;">
