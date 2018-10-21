@@ -1,1 +1,39 @@
-我们一起学猫叫
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>即时输入</title>
+	<style>
+	*{margin:0;padding:0:}
+	body{width:900px;margin:0auto;}
+	div{width:900px;text-indent:50px;background:#f9f;}
+	.d1{height:60px;font:bolder 20px/80px 黑体;}
+	.d2{background:#00a;border:5px solid #f9f;}
+	.d2 p{border:1px dotted red; background:yellow;margin:5px 30px;font:normal 16px/25px 微软雅黑;}
+	.d3{height: 80px;font:normal 16px/25px 微软雅黑;}
+	.txt{width: 340px;height: 28px;}
+	.btn{width: 45px;height: 28px;}
+	.d1,.d3{padding:5px;}
+	</style>
+</head>
+<body>
+	<div id="id1">在网页中即时输入内容</div>
+	<div id="id2"></div>
+	<div id="id3">
+	<h2>输入内容</h2>
+	<p>
+	<input type="text" class="txt">
+	<input type="button" value="提交" class="btn">
+	</p>
+	</div>
+	<script>
+	var oDiv=document.querySelector(".d2");
+	var oTxt=document.querySelector(".txt");
+	var oBtn=document.querySelector(".btn");
+	oBtn.onclick=function(){
+		oDiv.innerHTML+="<p>"+oTxt.value+"</p>";
+	};
+		</script>
+</body>
+</html>
