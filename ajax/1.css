@@ -13,7 +13,7 @@ body{width: 1000px;margin: 0 auto;font:normal 12px/25px "微软雅黑";backgroun
 #btn1,#btn2{width: 40px;}
 #fn{width: 160px;height: 360px;padding: 60px 10px 10px 10px; background: #fff url(../img/category.jpg) no-repeat left top;}
 #fn p{padding-left: 30px; background: #efe url(../img/icon.gif) no-repeat 10px center;margin: 8px 0px;border-bottom: 1px dotted #242;cursor: pointer;}
-#fn:hover{background: #eff url(../img/icon.gif) no-repeat 10px center;margin: 8px 0px;}
+#fn p:hover{background: #eff url(../img/icon.gif) no-repeat 10px center;margin: 8px 0px;}
 #content{width: 800px;height: 600px;background: #efe;float: right;}
 #content img{width: 160px;height: 160px;margin: 20px;float: left;}
 #footer{width: 1000px;height: 125px;background: #373;}
