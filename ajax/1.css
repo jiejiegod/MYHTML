@@ -1,0 +1,20 @@
+*{margin: 0;padding: 0;}
+a{text-decoration: none;}
+li{list-style: none;}
+body{width: 1000px;margin: 0 auto;font:normal 12px/25px "微软雅黑";background: #efc;}
+#header,#header img{width: 1000px;height: 160px;}
+#menu,#menu ul{width: 1000px;height: 30px;}
+#menu ul li{width: 125px;height: 30px;background: url(../img/button0.jpg);float: left;text-align: center;}
+#menu ul li:hover{background: url(../img/button1.jpg);float: left;}
+#menu ul li>a{color: #606;}
+#nav{width: 180px;height: 580px;float: left;background: #fee;padding: 10px;}
+#dn{width: 180px;height: 75px;text-align: center;background: #fff url(../img/login.jpg) no-repeat left top;padding-top:60px;padding-bottom: 15px;}
+#txt1,#txt2{width: 120px;}
+#btn1,#btn2{width: 40px;}
+#fn{width: 160px;height: 360px;padding: 60px 10px 10px 10px; background: #fff url(../img/category.jpg) no-repeat left top;}
+#fn p{padding-left: 30px; background: #efe url(../img/icon.gif) no-repeat 10px center;margin: 8px 0px;border-bottom: 1px dotted #242;cursor: pointer;}
+#fn:hover{background: #eff url(../img/icon.gif) no-repeat 10px center;margin: 8px 0px;}
+#content{width: 800px;height: 600px;background: #efe;float: right;}
+#content img{width: 160px;height: 160px;margin: 20px;float: left;}
+#footer{width: 1000px;height: 125px;background: #373;}
+#footer img{width: 125px;height: 125px;float: left;}
