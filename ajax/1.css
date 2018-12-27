@@ -5,7 +5,7 @@ body{width: 1000px;margin: 0 auto;font:normal 12px/25px "微软雅黑";backgroun
 #header,#header img{width: 1000px;height: 160px;}
 #menu,#menu ul{width: 1000px;height: 30px;}
 #menu ul li{width: 125px;height: 30px;background: url(ajax/img/button0.jpg);float: left;text-align: center;}
-#menu ul li:hover{background: url(../img/button1.jpg);float: left;}
+#menu ul li:hover{background: url(ajax/img/button1.jpg);float: left;}
 #menu ul li>a{color: #606;}
 #nav{width: 180px;height: 580px;float: left;background: #fee;padding: 10px;}
 #dn{width: 180px;height: 75px;text-align: center;background: #fff url(ajax/img/login.jpg) no-repeat left top;padding-top:60px;padding-bottom: 15px;}
