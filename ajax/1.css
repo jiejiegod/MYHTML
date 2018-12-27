@@ -4,7 +4,7 @@ li{list-style: none;}
 body{width: 1000px;margin: 0 auto;font:normal 12px/25px "微软雅黑";background: #efc;}
 #header,#header img{width: 1000px;height: 160px;}
 #menu,#menu ul{width: 1000px;height: 30px;}
-#menu ul li{width: 125px;height: 30px;background: url(https://jiejiegod.github.io/myhtml/img/button0.jpg);float: left;text-align: center;}
+#menu ul li{width: 125px;height: 30px;background: url(https://jiejiegod.github.io/myhtml/ajax//img/button0.jpg);float: left;text-align: center;}
 #menu ul li:hover{background: url(../img/button1.jpg);float: left;}
 #menu ul li>a{color: #606;}
 #nav{width: 180px;height: 580px;float: left;background: #fee;padding: 10px;}
