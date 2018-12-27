@@ -8,7 +8,7 @@ body{width: 1000px;margin: 0 auto;font:normal 12px/25px "微软雅黑";backgroun
 #menu ul li:hover{background: url(../img/button1.jpg);float: left;}
 #menu ul li>a{color: #606;}
 #nav{width: 180px;height: 580px;float: left;background: #fee;padding: 10px;}
-#dn{width: 180px;height: 75px;text-align: center;background: #fff url(../img/login.jpg) no-repeat left top;padding-top:60px;padding-bottom: 15px;}
+#dn{width: 180px;height: 75px;text-align: center;background: #fff url(../img/login.001.jpg) no-repeat left top;padding-top:60px;padding-bottom: 15px;}
 #txt1,#txt2{width: 120px;}
 #btn1,#btn2{width: 40px;}
 #fn{width: 160px;height: 360px;padding: 60px 10px 10px 10px; background: #fff url(../img/category.jpg) no-repeat left top;}
