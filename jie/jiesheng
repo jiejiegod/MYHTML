@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>主页面</title>
+	<script src=jquery.js></script>
+	<style>
+
+body{background-image: url(img/dbj.jpg); background-size:1550px 880px; margin: 0;padding: 0;}
+#shuzi{width: 70px; height: 70px;  overflow: hidden;float: left;transition: all 0.5s; }
+li{ list-style: none;width: 50px;height: 60px;margin:5px;}
+#shuzi:hover{height: 460px; }
+li>img{width: 60px;height: 60px;}
+#mian,#mianlm{width: 900px;height: 700px; margin: 0 auto;}
+#d2-1,#d3-1,#d4-1{width: 500px;height: 400px;float: left;}
+/*数字1作业*/
+#d2-1 div{width: 400px;height: 300px;  margin: 0 auto;}
+#d2-1 p{ text-align: center; margin: 0 auto;}
+#d2-1 img{width: 400px;height: 250px;}
+#gb{width: 70px;height: 70px; position: absolute;left: 1220px; }
+
+
+	</style>
+<script type=text/javascript>
+  $(document).ready(function(){
+       var a=new Array
+        a[0]='<div id="d2-1" style="display:none;"></div>';
+        a[1]='<div id="d3-1" style="background-color: red;display:none;">';
+        a[2]='<div id="d4-1" style="background-color: blue;display:none;">';
+
+       $("#shuzi  li").click(function(){
+       var b=$(this).index()
+       if($("#mianlm").html()==""){$("#mianlm").append(a[b]).css({"background":"white","opacity":"0.5"}).fadeIn(1000),
+             $("#mian div").fadeIn(1000)
+          }else{
+          $("#mianlm div").remove(),$("#mianlm").append(a[b]),$("#mianlm div").fadeIn(1000).css("display","block"),
+           $("#mian div").fadeIn(1000)}
+       //添加关闭
+            var c='<div id="hhh"><li id="gb" title="关闭"><img src="数字img/gb.png"<li></div>';
+           if ($('#mianlm:has(div)')) {$("#mianlm").append(c)}
+       });
+       //数字1作业
+         $(document).on("click","#d2-1 input",function(){
+         $("#img1").attr("src",$("select").val())
+       });
+       //关闭
+         $(document).on("click","#gb",function(){
+         $("#mianlm").empty().css("display","none");
+       });
+       })
+  </script>
+</head>
+<body>
+
+	<div id="shuzi">
+<li id="l1"><img src="数字img/1.png"></li>
+<li id="l2"><img src="数字img/2.png"></li>
+<li id="l3"><img src="数字img/3.png"></li>
+<li id="l4"><img src="数字img/4.png"></li>
+<li id="l5"><img src="数字img/5.png"></li>
+<li id="l6"><img src="数字img/6.png"></li>
+<li id="l7"><img src="数字img/7.png"></li>
+	</div>
+	<div id="mian"><div id="mianlm" style="display: none;"></div></div>
+</div>
+</body>
+</html>
