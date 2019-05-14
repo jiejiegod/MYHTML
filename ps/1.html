@@ -1,0 +1,233 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>邵阳职院幼儿园</title>
+	<script src=img/jquery.js></script>
+	<style>
+	 	*{
+	 		padding: 0;margin: 0;
+	 	}
+	 	body{
+	 		background-color: #f5f5f5;
+	 	}
+		#header{
+			width: 100%;
+			height: 125px;
+			background-color:white;
+		}
+		#logo{
+			width: 300px;
+			height: 125px;
+			float: left;
+		}
+		#bar{
+			width: 1200px;
+			height: 125px;
+			float: left;
+		}
+		#bar li{
+			width: 150px;
+			height: 40px;
+			float: left;
+			font-size: 16px;
+			list-style: none;
+			text-align: center;
+			margin:40px 0;
+		}
+		#bar a{
+			text-decoration: none;
+		}
+		#bar a:hover{
+			color: #ff9966;
+			
+		}
+		#bar span{
+			color: #c2c2c2;
+			font-size: 13px;
+		}
+		#main{
+			width: 1519px;
+			height: 630px;
+			background-color: black;
+			overflow: hidden;
+			position: relative;
+		}
+		#main ul{
+			width: 10000px;
+			height: 630px;
+			list-style: none;
+			animation: imgmovement 30s infinite;
+			animation-delay: 5s;
+			animation-direction: alternate;
+		}
+		@keyframes imgmovement{
+			20%{margin-left: -1530px;}
+			50%{margin-left: -3060px;}
+			75%{margin-left: -4590px;}
+			100%{margin-left: -6120px;}
+		}
+		#main ul li{
+			float: left;
+		}
+		#main  img {
+
+			width: 1530px;
+			height: 630px;
+		}
+		#bottom{
+			width: 100%;
+			height: 550px;
+			margin-top:80px;
+			background-color: #f5f5f5;
+			background-size: 15%;
+			background-image: url(img/2left.png);
+			background-repeat: no-repeat;
+		}
+		#bottom-img{
+			width: 1000px;
+			height: 480px;
+			margin:0 auto;
+			opacity: 0;
+		}
+		#bottom-img ul{
+			width: 1000px;
+			height: 200px;
+		}
+		#bottom-img li{
+			list-style: none;
+			float: left;
+			margin-left: 25px;
+			filter: grayscale(100%);
+		}
+		#bottom-img li:hover{
+			filter: grayscale(0);
+			cursor: pointer;
+		}
+		#bottom-img li.on1{
+			filter: grayscale(0);
+		}
+		@keyframes fadeInUp {
+   			from {transform: translateY(140px);}
+    		to {transform: translateY(0);opacity: 1;}
+    	}
+		
+		#bottom-main{
+			width: 1000px;
+			height: 255px;
+			margin-top: 25px;
+		}
+		#bottom-main > div{
+			width: 650px;
+			height: 300px;
+			float: left;
+		}
+		#bottom-main ul{
+			width: 100%;
+			height: 100%;
+		}
+		#bottom-main ul li{
+			display: none;
+			font-family: "微软雅黑"
+			color:#777777;
+			
+		}
+		#bottom-main ul li.on{display: block;}
+		#bottom-main p{
+			margin-top: 20px;color:#777777;
+		}
+		#footer{
+			width: 100%;
+			height: 120px;
+			border-top: 1px solid #ccc;
+		}
+		#footer > p{
+			font-size: 15px;
+			color: white;
+			float: left;
+			color:gray;
+			text-align: center;
+			line-height: 27px;
+			margin:20px 0 0 470px;
+		}
+	</style>
+</head>
+<body>
+	<div id="header">
+		<div id="logo">
+			<a href="file:///C:/%E4%BB%BB%E6%9D%B0%E4%BD%9C%E4%B8%9A/PS/%E5%B9%BC%E5%84%BF%E5%9B%AD/1.html#"><img src="1.png" width=300px; height=125px;></a>
+		</div>
+		<ul id="bar">
+			<li><a href="#">首页<br><span>HOME</span></a></li>
+			<li><a href="http://www.syzyedu.com/">关于学校<br><span>ABOUT SHCOOL</span></a></li>
+			<li><a href="http://syzyedu.com/content.aspx?pid=80&id=1177&depid=7">学校风景<br><span>SCHOOL SCENENRY</span></a></li>
+			<li><a href="http://www.syzyedu.com:8085/">家长服务<br><span>PARENT SERVICE</span></a></li>
+			<li><a href="#">咨询客服<br><span>ADVISORV SERIVE</span></a></li>
+			<li><a href="http://syzyedu.com/bm/default.aspx?depid=26">更多资讯<br><span>MORE INFORMATION</span></a></li>
+			<li><a href="#">其他服务<br><span>OTHER SERVICE</span></a></li>
+		</ul>
+	</div>
+	<div id="main">
+		<ul>
+			<li><img src="head.jpg" alt=""></li>
+			<li><img src="1.jpg" alt=""></li>
+			<li><img src="2.jpg" alt=""></li>
+			<li><img src="3.jpg" alt=""></li>
+			<li><img src="4.jpg" alt=""></li>
+		</ul>	
+	</div>
+	<div id="bottom">
+		<div id="bottom-img">
+			<ul>
+				<li><img src="te1.png" alt=""></li>
+				<li><img src="te2.png" alt=""></li>
+				<li><img src="te3.png" alt=""></li>
+				<li><img src="te4.png" alt=""></li>
+				<li><img src="te5.png" alt=""></li>
+			</ul>
+			<div id="bottom-main">
+				<img src="哲学.png" style="width: 320px;height: 200px;float: left;">
+				<div>
+				<ul>
+				<li class="on"><h2>平安校园我助力</h2><p>近年来，邵阳职院幼儿园曾先后获得“全国教育系统”教研先进单位、全国“第十届当代杯幼儿教师职业技能大赛”先进集体奖、湖难省“爱国卫生”先进单位、邵阳市“托幼机构卫生保健工作”先进单位，邵阳市“创卫”先进单位、邵阳市“巾帼文明岗”先进单位、邵阳市书香团队、邵阳市三优评比优秀团队、学前教育三年行动计划先进集体等多项光荣称号。
+有山美如斯，有水秀如斯，更兼有人风流如斯，珞珈无仙亦名矣！一代又一代邵阳大学的珞珈幼教人，将不忘初心，砥砺前行，为培育一代又一代有生长力、有幸福感的珞珈后人而不断努力！</p></li>
+				<li><h2>有专业度的幼儿园</h2><p>我们都知道，邵阳职院幼儿园是邵阳最好的幼儿园，乃至世界最好，邵阳地铁无数，到处都是飞机场，地铁站，豪宅，别墅，跑车，所以快来我们学校吧，我们学校非常的专业。</p></li>
+				<li><h2>有幸福感的幼儿园</h2><p>“让幼儿园的每一个人都有幸福感”是历届园长一贯以来的追求！幼儿的幸福感源于教师的爱与奉献；教师的幸福感源于职业带来的成功体验；家长的幸福感源于能够感受孩子成长过程中是健康和快乐的；园长的幸福感源于园所和谐向上健康的发展</p></li>
+				<li><h2>有生长力的幼儿园</h2><p>幼儿园坚持以园本课程为根，以珞珈文化为泉，将身为珞珈人的自豪感融入到幼儿园一日生活之中，并蕴藏到幼儿园课程之中：一分园倾力挖掘珞珈人文社会资源，构建“珞珈童梦”的课程体系；二分园依托珞珈山水的自然优势，打造了“生态教育”特色课程；三分园发挥信息学部独特的科技研究成果，确立了“四健合一”的健康教育课程；四分园凭借专业的家长团队资源，建立了颇有特色的“大健康”教养课程。近年来，幼儿园通过缤纷多彩的课程活动，让每一棵珞珈幼苗都找到适合自己的土壤，吮吸着生长的养分，积聚成长的力量。</p></li>
+				<li><h2>有使命感的幼儿园</h2><p>幼儿园拥有一个团结协作、真抓实干、执行力强、业务能力精湛、顶层设计能力一流的管理团队和一批富有朝气、善学习、乐奉献、综合素质较高、服务意识超一流的保教队伍。四所分园亦分别是邵阳大学哲学学院、华中师范大学、湖北省幼儿教育专科学校、邵阳市城市职业学院学前教育专业大学生的实习基地，以及国民语文应用能力实验校；同时，还承担着湖北省幼儿教师国培计划、湖北省农村幼儿教师国培计划的培养基地任务，以主动、开放的心态结对共建省、市、区的联盟园所多达12所；教师团队也在湖北省国培“送教下乡”、邵阳市保教实验活动等多项省、市级大型活动中，显示出了良好的业务素质和能力，充分发挥了示范辐射作用。</p></li></ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="footer">
+		<p>Copyright © 2018-2019 syzyyey.cn. All Rights Reserved. 邵阳职院幼儿园 版权所有<br>
+			地址：邵阳市梅子井路206号 网址：www.shaoyanzhiyuanyey.com <br>
+			　客服热线：400-816-5555
+		</p>
+	</div>
+
+	<script>
+	$(function(){
+	$("#bottom-img>ul li").click(function(){
+		$("#bottom-main > div li").eq($(this).index()).addClass("on").siblings().removeClass();
+		$(this).siblings().removeClass();
+		$(this).addClass("on1")
+		// var index=$(this).index();
+		// $("#bottom-main li")
+		// $("#bottom-main li").eq(index)
+	});
+	var eTop=$("#bottom-img").offset().top;//要移动的容器距离整个页面顶部的距离
+	var wTop=$(window).height();//当前窗口可视区域的高度
+	window.onresize=function(){
+		var wTop=$(window).height();//缩放窗口这个高度会改变，需要再取得
+		};
+	$(window).scroll(function(){
+  		var dTop = $(document).scrollTop();//当前窗口上面到网页顶部的距离，会实时改变
+  		if(dTop+wTop-100>eTop){$("#bottom-img").css("animation"," fadeInUp 2s both")}
+	});
+	})
+
+</script>
+</body>
+</html>
