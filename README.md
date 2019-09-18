@@ -1,4 +1,3 @@
-<center> # myhtml</center>
 ## 大家好我叫任杰 
 ### 这是我的网页
 [NO.1](http://jiege.xyz/vue/1.html)
