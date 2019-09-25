@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	 <div id="example-1">
+  <button v-on:click="counter += 1">Add 1</button>
+  <p>你点击了 {{ counter }} 次.</p>
+</div>		
+    	<script src=https://cdn.jsdelivr.net/npm/vue/dist/vue.js></script>
+        <script>
+        	var example1 = new Vue({
+  			el: '#example-1',
+  			data: {
+    		counter: 0
+  			}
+			})
+        </script>
+</body>
+</html>
