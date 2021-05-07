@@ -4,6 +4,57 @@
 [NO.2](https://jiege.xyz/vue/2.html)
 [NO.3](https://jiege.xyz/vue/3.html)
 ## 本单元目标
+1
+
+University students come from different parts of the country with various purposes. However, a closer look at their reasons for studying at the university will enable us to classify them roughly into three groups: those who have  passion for learning, those who wish to attain a bright future, and those who learn with no definite purpose.
+
+Firstly, there are many students who learn simply because they pursue their goal of learning. Some read a wealth of British and American novels because they are keenly interested in literature. Others sit in front of the computer screen, working on a new program, virtually day and night, because they find some computer programs fascinating, and they dream of becoming a "Bill Gates" one day.
+
+Secondly, there are students who work hard mainly for a better and more prosperous future. It seems that the majority of students fall into this group. After admission to the university, they read books after books to acquire knowledge from all of the resources which are available to them, and finally, to succeed in the future job market.
+
+Thirdly, there are still some students who learn without a clear goal. They take courses, finish homework, enjoy life on campus, but don't want to sample anything new or challenging. They have no idea what they will be doing after college. And they may end up with nothing in their lives.
+
+
+
+2
+Parents and teenagers have different or even opposite things to worry about. For example, while a mother might have a hard time understanding why her teenagers' room is always  embarrassment of dirty stuff, the teenagers are more worried about their next exams and may think it is ridiculous for their mother to insist on keeping a clean room. It is therefore important for you to appreciate the differences and learn to communicate with your teenagers properly. Otherwise, your teenagers may say nothing and shut you out of their personal lives. Their refusal to talk with you may even create emotional stress in your life.Learning effective ways to communicate can reverse the situation of a difficult relationship, reduce the stress of your life, and lead to a friendly relationship with your teenagers. First, you should learn to discuss serious problems in daily conversations. So, important topics, such as driving a vehicle and building  romantic relationship, could be dealt with through daily conversations.Second, learn to be an active listener. Many parents are so overwhelmed with their work that they could hardly take some time for their beloved children. Spend your time listening carefully to what your children like to talk about, and make sure your children feel they are being taken seriously. This will increase the chances of good communication.
+
+
+3
+
+
+There have been increased demands for higher education to provide students with better courses and more opportunities. To deal with this complex issue, colleges and universities are turning to the Internet for quick access to its rich educational resources. Now the Internet has been accepted as the preferred technology to many other methods in colleges and universities. Many teachers now routinely post their teaching materials online. A growing number of schools offer at least some undergraduate courses over the Internet. There are two different models of making use of the Internet for higher education. The first model seeks to improve existing courses by using the Internet. This model provides high-speed Internet connectivity to all students, faculty, and staff. While this model uses the Internet, it doesn't require many changes, and it keeps most existing institutional structures unchanged. A different, more revolutionary model regards the Internet as indispensable to an important change in higher education, for it is believed that the Internet can transform teacher-centered instruction into student-centered learning. This, as a result, will bring about basic change to our university education.
+
+Unit4
+
+In January 2011, Daniel Hernandez saved congresswoman Gabrielle Giffords' life in a mass shooting in Tucson. He kept her alive by applying pressure to her wounds and speaking tender words of sympathy until medical people arrived. He was hailed as a hero by the public. Although his devotion to public service is remarkable in his book They Call Me a Hero: A Memoir of My Youth, Hernandez insists that he is not a hero.
+
+Hernandez said that he initially resisted the idea of writing a book about his experience on that day of enormous tragedy. "I had been pushed by a few publishers after the incident," he said. "I thought heroes should be people who make a lifetime commitment to helping others."
+
+However, Hernandez, now a school board member, had come to realize that he would be interested in writing a book focusing on his public service."As a young official, I've faced some big challenges, and I want young people to know that they need to face challenges and involve themselves in their communities."
+
+When asked if he had any plan with a second book, Hernandez said his major purpose at present was to continue to serve his community and pursue his passion as advocate for education. "But I'm not going to say no," he said.
+
+
+5
+For several centuries, cricket (板球) has been a very popular sport in England. It has been enjoyed by both professional and amateur players. This super-popular game is a bat-and-ball game played between two teams of 11 players. It can provide you with health benefits like building endurance, balance, and physical fitness. But for a team sport, cricket also places individual players under unusual pressure because every team player is independent of each other.
+
+Cricket might have started in early 16th-century England. Written records present evidence of a game known as creag being played by Prince Edward at Newenden, Kent in 1301; and it is possible, despite no hard evidence, that this was a form of cricket. By the end of the 18th century, cricket had developed into a national sport of England. The growth of the British Empire led to cricket being played abroad and by the mid-19th century the first international contests were held. Cricket has had a(n) remarkable impact on popular culture in England. It has had an influence on the vocabulary of the English language, with such phrases as that's not cricket coined to describe unfair behavior in general.
+
+Unit6
+
+Nowadays college education cost is rising sharply. More and more college students have to work in order to generate income to support themselves. But how can you prevent working from interfering with your study?
+
+Firstly, plan your class and work schedules as far ahead as possible. Arrange your classes in a way so that you have one or two days for work.
+
+Secondly, use time well instead of burning the midnight oil. Studying late until midnight may make you tired and take a(n) consistent toll on your health. Use those 10 minutes waiting for the bus to read a few more pages. If your job has a lot of downtime (自由支配时间), use the opportunity to do school assignments. Never try to cut corners by copying assignments from other students.
+
+Thirdly, set a goal for your academic performance. You'll probably have to decrease your work hours, or even, if possible and necessary, withdraw from the workforce to be successful in study. After all, it is not a good idea to risk compromising your student career with part-time jobs.
+
+Fourthly, inform all your professors, teaching assistants and employers about your situation so that they can be flexible as well. Winning their support is the best way to keep them on your side.
+
+
+
 	一、为什么要学习数据库
 	二、数据库的相关概念      
 		DBMS、DB、SQL
