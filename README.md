@@ -63,12 +63,20 @@ Thirdly, set a goal for your academic performance. You'll probably have to decre
 
 Fourthly, inform all your professors, teaching assistants and employers about your situation so that they can be flexible as well. Winning their support is the best way to keep them on your side.
 
+6
 
+plagiarizing, copying a peer's test answers, and buying essays online are all ways in which college students cheat. According to a survey, nearly 80% of the students interviewed admitted cheating at some point during their educational career. The consequences are severe (严重的), ranging from a failing grade to being expelled from college. But why do students cheat? In college, the pressure to do well is very high. Students know that without satisfactory grades, their potential for success at school would be limited, so they sometimes copy their peers' answers in the exam. Besides, with today's technology, there is more information available online than ever before. Students don't have to browse the Internet long to find essays for sale. These are just some of the reasons why college students might cheat. Although colleges do everything to prevent cheating, it still goes on. And cheating becomes more extensive in some schools. But students should think about the consequences they will confront . They should stop and think about how happy and proud they will be when they earn a good grade in an
+
+
+
+8
+
+There was a time when Whitney didn’t have a lot of friends. All through high school, she just slipped in and out of “light” friendships where she didn’t find a lot of comfort or companionship . When it came time to go to college, Whitney was nervous and scared at the idea that she might have to go without friends. So, she was determined to make a change. The first week of classes, something happened that transformed Whitney’s life forever. In her English class, she asked to share their goals for the class, most of the students said their goal was to get a good grade, pass the class. Whitney uttered something entirely different: her goal was to make just one good friend. To her relief , while most of the students sat in silence, one student came to Whitney and held out his hand and introduced himself. He asked if she would be his friend. The whole room was focused silent –all eyes on the Whitney and the hand held out just in front of her. She smiled and Stretched her hand out to take his and a friendship was formed. It was a friendship that lasted all through college. It was a fr iendship from which a romance was nurtured . It was a friendship that brought two people together in marriage and steered  them through many good and bad times
 
 	一、为什么要学习数据库
 	二、数据库的相关概念      
 		DBMS、DB、SQL
-	三、数据库存储数据的特点
+	三、数据库存储数据的特
 	四、初始MySQL
 		MySQL产品的介绍        
 		MySQL产品的安装          ★        
