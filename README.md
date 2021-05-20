@@ -73,6 +73,55 @@ plagiarizing, copying a peer's test answers, and buying essays online are all wa
 
 There was a time when Whitney didn’t have a lot of friends. All through high school, she just slipped in and out of “light” friendships where she didn’t find a lot of comfort or companionship . When it came time to go to college, Whitney was nervous and scared at the idea that she might have to go without friends. So, she was determined to make a change. The first week of classes, something happened that transformed Whitney’s life forever. In her English class, she asked to share their goals for the class, most of the students said their goal was to get a good grade, pass the class. Whitney uttered something entirely different: her goal was to make just one good friend. To her relief , while most of the students sat in silence, one student came to Whitney and held out his hand and introduced himself. He asked if she would be his friend. The whole room was focused silent –all eyes on the Whitney and the hand held out just in front of her. She smiled and Stretched her hand out to take his and a friendship was formed. It was a friendship that lasted all through college. It was a fr iendship from which a romance was nurtured . It was a friendship that brought two people together in marriage and steered  them through many good and bad times
 
+
+
+
+
+
+第二本
+
+
+
+1The Internet has made English learning much easier. English learners used to be obliged to spend their time in libraries looking for the books that would help them in their language studies. It was very inconvenient because a lot of materials could only be found in tedious and uninteresting textbooks and readers. But today authentic content on a variety of subjects is only a click away. This is especially beneficial for those who wants to learn English earnestly.
+
+In order to achieve fluency in English, you need to be comfortable using at least 10,000 words. The abundant materials on the Internet make it possible for you to choose appropriate content to read and listen to. These materials can be adjusted to your level if you input some key words in the search engine. But how can you remember the bulk of unfamiliar words?
+
+In this case, the Internet evidently makes it easier to learn vocabulary. You can use online dictionaries to instantly find out their grammatical functions and the specific meaning of these words. The Internet helps you to efficiently accumulate vocabulary based on lively and interesting language content, which greatly reduces your distress caused by inability to remember the new words. The efficiency of this vocabulary learning is one of the reasons why the Internet has become an ideal place to learn English
+
+Unit2
+
+Through exploration of the humanities, we learn how to think creatively and critically, to analyze, and to ask questions. Because these skills allow us to gain new insight into everything from poetry and paintings to business models and politics, humanistic subjects have been at the heart of a liberal arts education since the ancient Greeks first used them to educate their citizens.
+
+Research into the human experience helps to boost our knowledge about our world. Through the work of humanities scholars, we learn about the values of different cultures, about what goes into making a work of art, and about the mystery of how history is made. Their efforts depict the great accomplishments of the past, help us understand the world today, and give us tools to imagine the prospect of our future.
+
+Today, humanistic knowledge continues to promote the ideal foundation for exploring and understanding the human experience. Learning another language might help to invest you with great insights as well as gain much appreciation of different cultures. Taking a close look at a sculpture might make you think about how an artist's life affected his creative decisions. Reading a book from another region of the world might help you speculate about the meaning of democracy. Listening to history courses might give you a clearer picture of what the future will be like
+
+3
+There is a special life stage that our generation goes through. It is the transition period, during which we move from teenage to adolescence. We learn who we are and what we stand for and what inspires us. Also, in this period we are saddled with a lot of pressure from our parents who want us to make something out of ourselves.
+
+My parents have already expressed feelings of anxiety over my future with academics and life. When I expressed to them recently that I would not mind graduating in five years instead of four in order to study abroad to acquaint myself with the world, they seemed so shocked. That idea sounded foreign and to them was equivalent to lack of ambition.
+
+Apart from that, my mother has expressed to me that she is worried that I am not searching for a boyfriend. I resent this stupid idea of marrying out of college since it does not suit me one bit. Women today can get what they want out of life without a man, even children, as it becomes more acceptable for women to adopt children.
+
+I personally want to stay in school as long as I can to reinforce my academic work, possibly complete a law degree and start a career, and then after, and only after, begin to think about shifting to marriage. If my math is correct, that means I will be more or less "ready" for marriage at the age of 29 or 30, the age when my mother had me.
+
+
+Unit4
+
+Traditional dating is a self-paced, general meeting of two people. The two usually commence with spending extra time together, getting to know one another and seeing how tempting they could be to each other. A good example is a man meeting a woman and sensing her charm. He then extends a formal invitation for a date. With traditional dating, you get to go at a steady pace, allowing yourself and your date to get to know each other through extensive contact.
+
+There are many components that can be expected from traditional dates. Men, who are supposed to display these traditional values, will open the door for the woman, stand up when she leaves the table, pay for everything, and proceed to the next move. In the1950s, a man would usually ask a woman out several days ahead for a specific date and time. If she accepted, they would arrange for a time to pick her up. He would then take her to a dinner and a movie.
+
+Today the rules of traditional dating are less clear. Twenty years ago, if a young lady asked a men out on a date, it was thought to be weird. Now, women are being encouraged to take the initiative and ask men out. A date may consist of a brief meeting at a café or a trip to the local art museum. Men often pay on the first date, but the woman may offer to go Dutch. The traditional dating style has been found much less common now
+
+
+5To spend or save is a question which many people have. There is always a(n) dilemma whether one should spend the money that he has earned or save that money for the future. Well, there is no explicit answer to the question as different people have different perspectives on their life, and that is the reason why some people tend to spend all the money earned while others retain control over their money. People who spend all the money do not think much about the future. The only thing that they enjoy doing most is to derive pleasure from spending money. For example, if they like a particular car, mobile phone or laptop, they will buy it without giving it a thought. For them, the most important thing is to satisfy their material appetite. People who have their first job or who haven't married often fall in this category. In the long run, saving is a good option for one's life as saving helps an individual to plan for future urgent needs. That is also the reason why many people save money for a rainy day. Individuals who can suspend their spending save money successfully. Instead of buying on impulse, they delay their purchasing decision and won't be easily manipulated by commercial ads. Individuals who have responsibility for their family belong to this category.
+
+
+6
+Simplifying is not necessarily about less. It can be about more: more time, more enjoyment, more accomplishment, and more of what profit you. If you do a lot of things that don't bring you joy or support your long-term plan, then doing less of that kind of things makes sense because you can't preserve everything. The purpose of simplifying is to remove what's not important.To understand what should be discarded, try to think of activities and things as either assets or obligations. An asset is something that is valuable. Some corresponding examples are stocks, bonds, buildings, land, gold, etc., but a little more broadly, an asset is anything that can strengthen and motivate you, moving you closer to your goals. However, obligations are debts. An obligation is anything that weakens you, moves you farther from your goals, provides negative stress, creates anxiety, and decreases your health. Then how can you implement the idea of simplifying? Think about your daily activities and start with just one area. For example, you may begin with obligations by making a long list of your daily activities. Your list may revolve around such routines as paying bills and planning a birthday party for a friend, etc. Do the activities get you closer to your goals? If not, modify the list. Remove what is unnecessary in order to concentrate more on something important in your life.
+
+
 	一、为什么要学习数据库
 	二、数据库的相关概念      
 		DBMS、DB、SQL
