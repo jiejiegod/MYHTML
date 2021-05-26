@@ -122,6 +122,16 @@ Today the rules of traditional dating are less clear. Twenty years ago, if a you
 Simplifying is not necessarily about less. It can be about more: more time, more enjoyment, more accomplishment, and more of what profit you. If you do a lot of things that don't bring you joy or support your long-term plan, then doing less of that kind of things makes sense because you can't preserve everything. The purpose of simplifying is to remove what's not important.To understand what should be discarded, try to think of activities and things as either assets or obligations. An asset is something that is valuable. Some corresponding examples are stocks, bonds, buildings, land, gold, etc., but a little more broadly, an asset is anything that can strengthen and motivate you, moving you closer to your goals. However, obligations are debts. An obligation is anything that weakens you, moves you farther from your goals, provides negative stress, creates anxiety, and decreases your health. Then how can you implement the idea of simplifying? Think about your daily activities and start with just one area. For example, you may begin with obligations by making a long list of your daily activities. Your list may revolve around such routines as paying bills and planning a birthday party for a friend, etc. Do the activities get you closer to your goals? If not, modify the list. Remove what is unnecessary in order to concentrate more on something important in your life.
 
 
+7
+It's obvious that women have come a long way as successful professionals. Women in the workplace are flourishing as an increased number of women have made their presence felt in many industries and professions. The sector of the female workforce has expanded with more and more strength and thus has its genuine importance in the professional world.
+
+Whether they like it or not, men have to accept that women are marching up the management ladder confidently and diplomatically. Women used to be much more "quiet and passive" due to the relatively small number of female employees in comparison to males. Women today, on the other hand, have begun seeking their administrative positions by using all their powers of intelligence.
+
+Men are hierarchical and jealous of the "beauty power" that allows women to get certain things based on their physical assets. Even though there is a dispute whether many professional females got into positions of power by using their appearance to their advantage, the valid fact is the majority of women have worked hard to achieve their desired success.
+
+Women were considered as  bystanders in the workplace for many years and it was believed that the only jobs that they could handle were those of teachers or secretaries, but today's women can not only hold their own positions in the workplace, but they also have the dual task of raising their families.
+
+
 	一、为什么要学习数据库
 	二、数据库的相关概念      
 		DBMS、DB、SQL
