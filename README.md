@@ -132,6 +132,13 @@ Men are hierarchical and jealous of the "beauty power" that allows women to get 
 Women were considered as  bystanders in the workplace for many years and it was believed that the only jobs that they could handle were those of teachers or secretaries, but today's women can not only hold their own positions in the workplace, but they also have the dual task of raising their families.
 
 
+The animal rights movement is a social movement which seeks an end to using animals in the research, food, clothing, and entertainment industries, hence being called animal liberation. It advocates the idea that the most basic interests of non-human creatures should be  afforded the same consideration as those of human beings.
+
+Advocates lobby for animal rights from different aspects, ranging from the focus on animal suffering in laboratories to the argument that insists on not casting animals as properties of human beings. Despite the different approaches, advocates broadly consent to the opinion that animals should be viewed as non-human members of the moral community and should be omitted from being food, clothing, entertainment, or research subjects. The idea of awarding rights to animals wins the support of several prominent scholars.
+
+However, some critics argue that animals are unable to enter into a social contract or moral compass and for that reason cannot be granted rights. Only humans have duties and, therefore, only humans have rights. There is nothing wrong or evil about using animals as resources so long as there is no unnecessary suffering. From within the animal rights movement itself, there has also been criticism of certain forms of animal rights activism, in particular the destruction of fur farms and animal laboratories.
+
+
 	一、为什么要学习数据库
 	二、数据库的相关概念      
 		DBMS、DB、SQL
