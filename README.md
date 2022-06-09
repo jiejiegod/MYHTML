@@ -5,6 +5,32 @@
 [NO.3](https://jiege.xyz/vue/3.html)
 ## 本单元目标
 
+
+①With the rapid development of（——填：society, culture, medical service, education, economy）.  it is a great necessity for（——填：students, residents, citizens, youngsters）to（ do sth. ）. 
+②It is quite natural for us to ponder over the question of（——填：主题词）.
+
+第二段
+
+论点1：First and foremost, there is no doubt that（——例子：the price of housing will  be a huge problem.）
+论据1：Based on big data, a majority of（——例子：successful social elites have）admitted that they have spent 2/3 of their time in（doing sth）.
+
+论点2：Furthermore, it is obvious that（——例子：the competition is stronger in big city.）
+论据2：Where there is/are（——例子：are people）, there is/are （——例子：is competition）.
+改编自“有志者事竟成”：Where there is a wil, there is a way. 
+
+论点3：Last but not least, no one can deny that（——例子：the traffic condition in big cities in worse than in rural area.）
+论据3：Although （——例子：the roads are wider in big cities, there are more vehicles.）
+虽然…但是…
+
+第三段：
+
+In a word, the whole society should pay close attention to the problem of（——例子：the living in big cities.）Only in this way can we have a bright and promising future.
+
+
+
+
+
+
 一Confucianism has permeated into the soil of China, then other Oriental countries like Japan, the Republic of Korea, Vietnam, etc., and even the Western world. The exact time for Confucianism to land in the West was thought to be the year of 1593, when, according to the research of Professor Zhu Qianzhi, a renowned scholar from Peking University, the Italian missionary Matteo Ricci initiated the translation of the Four Books into Latin. Gradually Westerners learned about Confucius, The Analects, and Confucianism. And now, Confucianism has come to be regarded as the common cultural legacy of the whole world
 
 二According to sociological studies, teams are significantly more productive than individuals. As the old saying goes, “United we stand, divided we fall.” Fighting alone, we are likely to lose; on the contrary, if we work together, we are bound to win. The core of team spirit is to take advantage of the personality and competence differences of the team members, bring into full play their strengths, and produce the effect of “1+1＞2” (One plus one is bigger than two; The outcomes brought about by the teamwork of two will be better than those by two members working separately; The teamwork of two will be more productive than the work of two done separately). Therefore, team members should understand and appreciate each other and work collaboratively, so as to accomplish the goal and achieve common development
